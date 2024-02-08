@@ -1,0 +1,4 @@
+Stocklocation,SKU,Buffer,Description
+Tel-Aviv,12345,10,This is the first row to test
+Netanya,67890,20,seconrowwithnospaces
+Jerusalem,2222,0,balbla
